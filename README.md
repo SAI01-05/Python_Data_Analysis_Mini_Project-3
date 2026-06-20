@@ -41,42 +41,42 @@ A data analysis project exploring Netflix Inc. (NFLX) historical stock data usin
 ### 1. Volume of Stock Traded Over Time
 Line plot visualizing how trading volume changed across the entire timeline.
 
-![Volume of Stock Traded Over Time](https://YOUR_IMAGE_LINK_HERE/volume_over_time.png)
+![Volume of Stock Traded Over Time](images/volume_over_time.png)
 
 ---
 
 ### 2. Stock Price Trend (High, Open, Close)
 Multi-line plot comparing the High, Open, and Close prices of Netflix stock across the full date range.
 
-![Netflix Stock Price High Open Close](https://YOUR_IMAGE_LINK_HERE/stock_price_trend.png)
+![Netflix Stock Price High Open Close](images/stock_price_trend.png)
 
 ---
 
 ### 3. Day, Month, and Year-Wise Volume Analysis
 Three-panel chart showing average trading volume broken down by day of month, month of year, and year — to identify seasonal and long-term patterns.
 
-![Day Month Year Wise Volume](https://YOUR_IMAGE_LINK_HERE/day_month_year_volume.png)
+![Day Month Year Wise Volume](images/day_month_year_volume.png)
 
 ---
 
 ### 4. Top 5 Dates with Highest Stock Price
 Tabular output and analysis identifying the five trading days that recorded the highest stock prices in the dataset.
 
-![Top 5 Highest Stock Prices](https://YOUR_IMAGE_LINK_HERE/top5_high.png)
+![Top 5 Highest Stock Prices](images/top5_high.png)
 
 ---
 
 ### 5. Top 5 Dates with Lowest Stock Price
 Tabular output identifying the five trading days with the lowest recorded stock prices — correlating to early 2002 post-IPO trading.
 
-![Top 5 Lowest Stock Prices](https://YOUR_IMAGE_LINK_HERE/top5_low.png)
+![Top 5 Lowest Stock Prices](images/top5_low.png)
 
 ---
 
 ### 6. High vs Low Price Comparison
 Side-by-side line plots comparing the High (green) and Low (red) stock values over the full period to visualize overall price growth and volatility.
 
-![High and Low Stock Price Comparison](https://YOUR_IMAGE_LINK_HERE/high_low_comparison.png)
+![High and Low Stock Price Comparison](images/high_low_comparison.png)
 
 ---
 
